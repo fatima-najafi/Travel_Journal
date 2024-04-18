@@ -3,6 +3,8 @@
   <img src="./src/assets/Screenshot_project1.png" />
    <img src="./src/assets/Screenshot_project2.png" />
 </div>
+
+
 # MY TRAVAL JOURNAL IN AFGHANISTAN 🏔️🕌🚙
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
