@@ -2,6 +2,7 @@
 <div >
   <img src="./src/assets/Screenshot_project1.png" />
    <img src="./src/assets/Screenshot_project2.png" />
+  <img src="![Screenshot_project2](https://github.com/fatima-najafi/Travel_Journal/assets/101437051/b6c78928-c254-4473-8609-fd8cf755a705)"
 </div>
 
 
