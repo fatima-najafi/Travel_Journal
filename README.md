@@ -1,9 +1,9 @@
 
 <div >
   <img src="./src/assets/Screenshot_project1.png" />
-   <img src="./src/assets/Screenshot_project2.png" />
-  <img src="![Screenshot_project2](https://github.com/fatima-najafi/Travel_Journal/assets/101437051/b6c78928-c254-4473-8609-fd8cf755a705)"
-</div>
+  </div>
+
+![Screenshot_project2](https://github.com/fatima-najafi/Travel_Journal/assets/101437051/2b8d4ca8-c33f-4bd8-9e50-6efa224fc9e9)
 
 
 # MY TRAVAL JOURNAL IN AFGHANISTAN 🏔️🕌🚙
