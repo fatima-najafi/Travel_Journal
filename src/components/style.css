@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
 }
+/* navbar section */
 nav {
   display: flex;
   flex-direction: row;
@@ -87,6 +88,7 @@ a {
   width: 480px;
   margin: 20px auto;
 }
+/*  footer section */
 .footer {
   background-color: #f55a5a;
   width: 550px;
