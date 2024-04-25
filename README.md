@@ -6,6 +6,7 @@
 ![Screenshot_project2](https://github.com/fatima-najafi/Travel_Journal/assets/101437051/2b8d4ca8-c33f-4bd8-9e50-6efa224fc9e9)
 
 
+
 # MY TRAVAL JOURNAL IN AFGHANISTAN 🏔️🕌🚙
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
